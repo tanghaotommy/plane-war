@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="dafeiji">
+</Property><Property Name="Solution File" Value="H:\dafeiji\dafeiji.sln">
+</Property><Property Name="User Options File" Value="H:\dafeiji\dafeiji.suo">
+</Property><Property Name="Date" Value="2013年12月26日">
+</Property><Property Name="Time" Value="23:18">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="dafeiji.sln" Description="File successfully backed up as H:\dafeiji\dafeiji.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="dafeiji.suo" Description="File successfully backed up as H:\dafeiji\dafeiji.suo.old">
+</Event><Event ErrorLevel="0" Project="dafeiji" Source="dafeiji\dafeiji.vcproj" Description="Converting project file 'H:\dafeiji\dafeiji\dafeiji.vcproj'.">
+</Event><Event ErrorLevel="1" Project="dafeiji" Source="dafeiji\dafeiji.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="dafeiji" Source="dafeiji\dafeiji.vcproj" Description="Done converting to new project file 'H:\dafeiji\dafeiji\dafeiji.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="dafeiji" Source="dafeiji\dafeiji.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="dafeiji.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="dafeiji.sln" Description="Converted">
+</Event></UpgradeLog>
